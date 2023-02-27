@@ -1,4 +1,4 @@
-const { modul } = require('./module');
+uconst { modul } = require('./module');
 const { axios, baileys, chalk, cheerio, child_process, crypto, fs, ffmpeg, jsobfus, moment, ms, speed, util } = modul;
 const { exec, spawn, execSync } = child_process
 const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = baileys
@@ -22,8 +22,8 @@ chats: {},
 ...(global.db || {})
 }
 
-global.ownerName = 'Owner Maxxy'
-global.ownerNumber = ["6285380166282@s.whatsapp.net"]
+global.ownerName = 'Ari Offc'
+global.ownerNumber = ["6288294533698@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
     wait: 'Wait Sis Please be patient',
@@ -249,11 +249,11 @@ case 'menu':
 jiren = `
 ╭─────────────
 │Ovann BOT ULTRA
-│BOT NAME : Maxxy Botz
-│BOT VERSION : V5
-│OWNER NAME : Owner Maxxy
-│OWNER NUMBER : 6285380166282
-│CREATOR SCRIPT : Yt Maxxy Botz
+│BOT NAME : MrX-SkY
+│BOT VERSION : V999
+│OWNER NAME : Owner Ari
+│OWNER NUMBER : 6288294533698
+│CREATOR SCRIPT : Yt Bale Bim
 ╰─────────────
 ╭─────WAR MENU────────
 │bugmenu
@@ -270,9 +270,9 @@ AKU BOT WAR DARI Indonesia🇮🇩
 IAM BOT WAR FROM Indonesia🇮🇩
 
 ╭──────────────────────────
-│ : BOT NAME : Maxxy Botz
-│ : OWNER NAME : Owner Maxxy
-│ : OWNER NUMBER : 6285380166282
+│ : BOT NAME : MrX-SkY
+│ : OWNER NAME : Owner Ari
+│ : OWNER NUMBER : 6288294533698
 │ : RUN  : PANEL ONLY
 ╰──────────────────────────
 
@@ -296,8 +296,8 @@ DEFFENSE🛡️
 
 ╭───────────────
 ┃COUNTRY BUG
-┃CREATOR : Owner Maxxy 
-┃IDEA : Maxxy Botz
+┃CREATOR : Owner Ari 
+┃IDEA : MrX-SkY Botz
 ┃COUNTRY BUG🛠️
 ┃⌦ 🇦🇨 (62xxx)
 ┃⌦ 🇦🇩 (62xxx)
@@ -316,8 +316,8 @@ DEFFENSE🛡️
 ╰---------------------------------------
 ╭───────────────
 ┃EMOJI BUG
-┃CREATOR : Owner Maxxy
-┃IDEA : Maxxy Botz
+┃CREATOR : Owner Ari 
+┃IDEA : MrX-SkY Botz
 ┃EMOJI BUG🛠️
 ┃⌦ 😤 (62xxx)
 ┃⌦ 🗣️ (62xxx)
@@ -350,8 +350,8 @@ DEFFENSE🛡️
 ╰---------------------------------------
 ╭───────────────
 ┃BUG MENU
-┃CREATOR : Owner Maxxy
-┃IDEA : Maxxy Botz
+┃CREATOR : Owner Ari
+┃IDEA : MrX-SkY Botz
 ┃BUG MENU🛠️
 ┃⌦ banned (62xxx)
 ┃⌦ santet (62xxx)
@@ -404,9 +404,9 @@ DEFFENSE🛡️
 ┃⌦ sedot (62xxx)
 ╰---------------------------------------
 ╭───────────────
-┃BUG DARI GW Maxxy
-┃CREATOR : Yt Maxxy Botz
-┃IDEA : Maxxy
+┃BUG DARI GW Ari
+┃CREATOR : Yt Bale Bim
+┃IDEA : MrX-SkY
 ┃Tanzz BUG🛠️
 ┃⌦ tanzagas1 (62xxx)
 ┃⌦ tanzagas2 (62xxx)
@@ -439,8 +439,8 @@ DEFFENSE🛡️
 ╰---------------------------------------
 ╭───────────────
 ┃BUG VERIF
-┃CREATOR : Owner Maxxy
-┃IDEA : Maxxy Botz
+┃CREATOR : Owner Ari
+┃IDEA : MrX-SkY Botz
 ┃BUG VERIF🛠️
 ┃⌦ banned (62xxx)
 ┃⌦ logout (62xxx)
@@ -454,16 +454,16 @@ DEFFENSE🛡️
 ╰---------------------------------------
 ╭───────────────
 ┃SPECIAL BUG
-┃CREATOR : Owner Maxxy
-┃IDEA : Maxxy Botz
+┃CREATOR : Owner Ari 
+┃IDEA : MrX-SkY Botz
 ┃SPECIAL BUG🛠️
 ┃⌦ tanza1000 (62xxx)
 ┃⌦ lastbug (62xxx)
 ╰---------------------------------------
 ╭───────────────
 ┃OTHER BUG
-┃CREATOR : Owner Maxxy
-┃IDEA : Maxxy Botz
+┃CREATOR : Owner Ari
+┃IDEA : MrX-SkY Botz
 ┃OTHER BUF🛠️
 ┃⌦ aduhcuy (fix!!!)
 ┃⌦ poll (vote!!
@@ -471,8 +471,8 @@ DEFFENSE🛡️
 ╰---------------------------------------
 ╭───────────────
 ┃ATTACK GROUP
-┃CREATOR : Owner Maxxy
-┃IDEA : Maxxy Botz
+┃CREATOR : Owner Ari
+┃IDEA : MrX-SkY Botz
 ┃ATTACK GROUP🛠️
 ┃⌦ santetgc (Linkgrup)
 ┃⌦ boykotgc (Linkgrup)
@@ -483,8 +483,8 @@ DEFFENSE🛡️
 ╰--------------------------------------
 ╭───────────────
 ┃FREE FIRE BUG
-┃CREATOR : Owner Maxxy
-┃IDEA : Maxxy Botz
+┃CREATOR : Owner Ari
+┃IDEA : MrX-SkY Botz
 ┃FREE FIRE BUG🛠️
 ┃⌦ sg2 (62xxx)
 │⌦ sg2sg6 (62xxx)
@@ -503,25 +503,25 @@ DEFFENSE🛡️
 
 ╭───────────────
 ┃VIRTEX INI GA ADA APA ii
-┃CREATOR : Owner Maxxy
-┃IDEA : Maxxy Botz
+┃CREATOR : Owner Ari
+┃IDEA : MrX-SkY Botz
 ┃VIRTEX🛠️
 ┃⌦ virtexkarma
 ┃⌦ virtexair
 ┃⌦ virtexringan   
 ┃⌦ virtekbiasa  
 ╰-----------------------------  
-subscribe my youtube channel https://youtube.com/@MaxxyBotz
+subscribe my youtube channel https://youtube.com/@BaleBim
     
 `
 
 diablobotwhatsapp.reply(jiren)
 break
 case 'akses':
-diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6285380166282`)
+diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6288294533698`)
 break
 case 'sewa':
-diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6285380166282`)
+diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6288294533698`)
 break
 
 case 'restart':{
